@@ -1,9 +1,3 @@
-import utitl from './utitl'
-
-
-console.log(utitl)
-
-
 class Person {
     constructor(name){
         this.name = name
