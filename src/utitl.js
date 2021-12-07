@@ -1,3 +1,3 @@
 export default {
-    a:123
+    a: 'ssss'
 }
