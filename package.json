@@ -1,6 +1,6 @@
 {
   "name": "babel-plugin-islin",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "",
   "main": "./lib/index.js",
   "directories": {
@@ -8,7 +8,8 @@
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "ci": "npm install"
+    "ci": "npm install",
+    "build": "webpack --mode production"
   },
   "repository": {
     "type": "git",
